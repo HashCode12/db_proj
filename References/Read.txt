@@ -1,0 +1,1 @@
+discipline.csv, participation.csv and country.csv was made by extracting information from the other tables , to ensure more validity for inserts.
